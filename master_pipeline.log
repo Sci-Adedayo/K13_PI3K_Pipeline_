@@ -1,0 +1,152 @@
+[2026-10-16 08:35:38,441] INFO: === STARTING MASTER PFK13/PI3K AUTOMATED PIPELINE ===
+[2026-10-16 08:35:38,441] INFO: Generating input parameter files in mdp_files/...
+[2026-10-16 08:35:38,441] INFO: Sanitizing target and mutant PDB chain IDs...
+[2026-10-16 08:35:40,299] INFO: PDB chain sanitization complete.
+[2026-10-16 08:35:40,299] INFO: Found 35 mutant structures in mutants/. Processing docking...
+[2026-10-16 08:35:40,300] INFO: Starting HADDOCK3 docking: K13_A578S vs catalytic domain
+[2026-10-16 10:06:33,831] INFO: Completed HADDOCK3 docking: K13_A578S_catalytic
+[2026-10-16 10:06:33,912] INFO: Starting HADDOCK3 docking: K13_A578S vs helical domain
+[2026-10-16 11:25:47,565] INFO: Completed HADDOCK3 docking: K13_A578S_helical
+[2026-10-16 11:25:47,569] INFO: Starting HADDOCK3 docking: K13_A582P vs catalytic domain
+[2026-10-16 12:56:53,898] INFO: Completed HADDOCK3 docking: K13_A582P_catalytic
+[2026-10-16 12:56:53,900] INFO: Starting HADDOCK3 docking: K13_A582P vs helical domain
+[2026-10-16 14:17:06,168] INFO: Completed HADDOCK3 docking: K13_A582P_helical
+[2026-10-16 14:17:06,171] INFO: Starting HADDOCK3 docking: K13_A582S vs catalytic domain
+[2026-10-16 15:50:51,271] INFO: Completed HADDOCK3 docking: K13_A582S_catalytic
+[2026-10-16 15:50:51,274] INFO: Starting HADDOCK3 docking: K13_A582S vs helical domain
+[2026-10-16 17:16:10,161] INFO: Completed HADDOCK3 docking: K13_A582S_helical
+[2026-10-16 17:16:10,163] INFO: Starting HADDOCK3 docking: K13_C469G vs catalytic domain
+[2026-10-16 18:48:36,309] INFO: Completed HADDOCK3 docking: K13_C469G_catalytic
+[2026-10-16 18:48:36,311] INFO: Starting HADDOCK3 docking: K13_C469G vs helical domain
+[2026-10-16 20:11:27,412] INFO: Completed HADDOCK3 docking: K13_C469G_helical
+[2026-10-16 20:11:27,414] INFO: Starting HADDOCK3 docking: K13_C580Y vs catalytic domain
+[2026-10-16 21:43:04,454] INFO: Completed HADDOCK3 docking: K13_C580Y_catalytic
+[2026-10-16 21:43:04,457] INFO: Starting HADDOCK3 docking: K13_C580Y vs helical domain
+[2026-10-16 23:02:31,089] INFO: Completed HADDOCK3 docking: K13_C580Y_helical
+[2026-10-16 23:02:31,093] INFO: Starting HADDOCK3 docking: K13_D512Y vs catalytic domain
+[2026-10-17 00:24:48,479] INFO: Completed HADDOCK3 docking: K13_D512Y_catalytic
+[2026-10-17 00:24:48,481] INFO: Starting HADDOCK3 docking: K13_D512Y vs helical domain
+[2026-10-17 01:33:17,617] INFO: Completed HADDOCK3 docking: K13_D512Y_helical
+[2026-10-17 01:33:17,618] INFO: Starting HADDOCK3 docking: K13_D702Y vs catalytic domain
+[2026-10-17 02:45:41,161] INFO: Completed HADDOCK3 docking: K13_D702Y_catalytic
+[2026-10-17 02:45:41,164] INFO: Starting HADDOCK3 docking: K13_D702Y vs helical domain
+[2026-10-17 03:43:36,158] INFO: Completed HADDOCK3 docking: K13_D702Y_helical
+[2026-10-17 03:43:36,160] INFO: Starting HADDOCK3 docking: K13_E602D vs catalytic domain
+[2026-10-17 04:41:03,647] INFO: Completed HADDOCK3 docking: K13_E602D_catalytic
+[2026-10-17 04:41:03,649] INFO: Starting HADDOCK3 docking: K13_E602D vs helical domain
+[2026-10-17 05:27:50,236] INFO: Completed HADDOCK3 docking: K13_E602D_helical
+[2026-10-17 05:27:50,238] INFO: Starting HADDOCK3 docking: K13_E691Q vs catalytic domain
+[2026-10-17 06:20:40,372] INFO: Completed HADDOCK3 docking: K13_E691Q_catalytic
+[2026-10-17 06:20:40,374] INFO: Starting HADDOCK3 docking: K13_E691Q vs helical domain
+[2026-10-17 07:08:25,427] INFO: Completed HADDOCK3 docking: K13_E691Q_helical
+[2026-10-17 07:08:25,429] INFO: Starting HADDOCK3 docking: K13_F628S vs catalytic domain
+[2026-10-17 08:02:29,510] INFO: Completed HADDOCK3 docking: K13_F628S_catalytic
+[2026-10-17 08:02:29,513] INFO: Starting HADDOCK3 docking: K13_F628S vs helical domain
+[2026-10-17 08:49:53,408] INFO: Completed HADDOCK3 docking: K13_F628S_helical
+[2026-10-17 08:49:53,410] INFO: Starting HADDOCK3 docking: K13_G449A vs catalytic domain
+[2026-10-17 09:43:35,492] INFO: Completed HADDOCK3 docking: K13_G449A_catalytic
+[2026-10-17 09:43:35,494] INFO: Starting HADDOCK3 docking: K13_G449A vs helical domain
+[2026-10-17 10:31:11,084] INFO: Completed HADDOCK3 docking: K13_G449A_helical
+[2026-10-17 10:31:11,086] INFO: Starting HADDOCK3 docking: K13_G453C vs catalytic domain
+[2026-10-17 11:23:40,388] INFO: Completed HADDOCK3 docking: K13_G453C_catalytic
+[2026-10-17 11:23:40,389] INFO: Starting HADDOCK3 docking: K13_G453C vs helical domain
+[2026-10-17 12:09:56,311] INFO: Completed HADDOCK3 docking: K13_G453C_helical
+[2026-10-17 12:09:56,313] INFO: Starting HADDOCK3 docking: K13_G496V vs catalytic domain
+[2026-10-17 13:01:53,316] INFO: Completed HADDOCK3 docking: K13_G496V_catalytic
+[2026-10-17 13:01:53,318] INFO: Starting HADDOCK3 docking: K13_G496V vs helical domain
+[2026-10-17 13:47:31,678] INFO: Completed HADDOCK3 docking: K13_G496V_helical
+[2026-10-17 13:47:31,680] INFO: Starting HADDOCK3 docking: K13_G545V vs catalytic domain
+[2026-10-17 14:39:19,158] INFO: Completed HADDOCK3 docking: K13_G545V_catalytic
+[2026-10-17 14:39:19,159] INFO: Starting HADDOCK3 docking: K13_G545V vs helical domain
+[2026-10-17 15:25:09,526] INFO: Completed HADDOCK3 docking: K13_G545V_helical
+[2026-10-17 15:25:09,529] INFO: Starting HADDOCK3 docking: K13_G625V vs catalytic domain
+[2026-10-17 16:16:46,281] INFO: Completed HADDOCK3 docking: K13_G625V_catalytic
+[2026-10-17 16:16:46,283] INFO: Starting HADDOCK3 docking: K13_G625V vs helical domain
+[2026-10-17 17:02:27,458] INFO: Completed HADDOCK3 docking: K13_G625V_helical
+[2026-10-17 17:02:27,460] INFO: Starting HADDOCK3 docking: K13_G665C vs catalytic domain
+[2026-10-17 17:54:11,112] INFO: Completed HADDOCK3 docking: K13_G665C_catalytic
+[2026-10-17 17:54:11,113] INFO: Starting HADDOCK3 docking: K13_G665C vs helical domain
+[2026-10-17 18:39:46,110] INFO: Completed HADDOCK3 docking: K13_G665C_helical
+[2026-10-17 18:39:46,112] INFO: Starting HADDOCK3 docking: K13_G665S vs catalytic domain
+[2026-10-17 19:31:31,917] INFO: Completed HADDOCK3 docking: K13_G665S_catalytic
+[2026-10-17 19:31:31,919] INFO: Starting HADDOCK3 docking: K13_G665S vs helical domain
+[2026-10-17 20:17:18,620] INFO: Completed HADDOCK3 docking: K13_G665S_helical
+[2026-10-17 20:17:18,622] INFO: Starting HADDOCK3 docking: K13_H644N vs catalytic domain
+[2026-10-17 21:09:07,643] INFO: Completed HADDOCK3 docking: K13_H644N_catalytic
+[2026-10-17 21:09:07,645] INFO: Starting HADDOCK3 docking: K13_H644N vs helical domain
+[2026-10-17 21:54:36,142] INFO: Completed HADDOCK3 docking: K13_H644N_helical
+[2026-10-17 21:54:36,144] INFO: Starting HADDOCK3 docking: K13_L618I vs catalytic domain
+[2026-10-17 22:45:44,171] INFO: Completed HADDOCK3 docking: K13_L618I_catalytic
+[2026-10-17 22:45:44,173] INFO: Starting HADDOCK3 docking: K13_L618I vs helical domain
+[2026-10-17 23:30:33,496] INFO: Completed HADDOCK3 docking: K13_L618I_helical
+[2026-10-17 23:30:33,498] INFO: Starting HADDOCK3 docking: K13_M472I vs catalytic domain
+[2026-10-18 00:21:15,787] INFO: Completed HADDOCK3 docking: K13_M472I_catalytic
+[2026-10-18 00:21:15,789] INFO: Starting HADDOCK3 docking: K13_M472I vs helical domain
+[2026-10-18 01:05:53,783] INFO: Completed HADDOCK3 docking: K13_M472I_helical
+[2026-10-18 01:05:53,785] INFO: Starting HADDOCK3 docking: K13_M608I vs catalytic domain
+[2026-10-18 01:55:40,925] INFO: Completed HADDOCK3 docking: K13_M608I_catalytic
+[2026-10-18 01:55:40,926] INFO: Starting HADDOCK3 docking: K13_M608I vs helical domain
+[2026-10-18 02:39:58,091] INFO: Completed HADDOCK3 docking: K13_M608I_helical
+[2026-10-18 02:39:58,093] INFO: Starting HADDOCK3 docking: K13_P553T vs catalytic domain
+[2026-10-18 03:29:56,852] INFO: Completed HADDOCK3 docking: K13_P553T_catalytic
+[2026-10-18 03:29:56,855] INFO: Starting HADDOCK3 docking: K13_P553T vs helical domain
+[2026-10-18 04:14:07,448] INFO: Completed HADDOCK3 docking: K13_P553T_helical
+[2026-10-18 04:14:07,450] INFO: Starting HADDOCK3 docking: K13_P655T vs catalytic domain
+[2026-10-18 05:00:35,427] ERROR: HADDOCK3 failed for K13_P655T_catalytic.
+[2026-10-18 05:00:35,429] INFO: Starting HADDOCK3 docking: K13_P655T vs helical domain
+[2026-10-18 05:44:48,622] INFO: Completed HADDOCK3 docking: K13_P655T_helical
+[2026-10-18 05:44:48,624] INFO: Starting HADDOCK3 docking: K13_Q613H vs catalytic domain
+[2026-10-18 06:34:45,298] INFO: Completed HADDOCK3 docking: K13_Q613H_catalytic
+[2026-10-18 06:34:45,300] INFO: Starting HADDOCK3 docking: K13_Q613H vs helical domain
+[2026-10-18 07:19:08,954] INFO: Completed HADDOCK3 docking: K13_Q613H_helical
+[2026-10-18 07:19:08,956] INFO: Starting HADDOCK3 docking: K13_S522C vs catalytic domain
+[2026-10-18 08:09:15,563] INFO: Completed HADDOCK3 docking: K13_S522C_catalytic
+[2026-10-18 08:09:15,565] INFO: Starting HADDOCK3 docking: K13_S522C vs helical domain
+[2026-10-18 08:53:44,522] INFO: Completed HADDOCK3 docking: K13_S522C_helical
+[2026-10-18 08:53:44,523] INFO: Starting HADDOCK3 docking: K13_S600Y vs catalytic domain
+[2026-10-18 09:43:44,769] INFO: Completed HADDOCK3 docking: K13_S600Y_catalytic
+[2026-10-18 09:43:44,772] INFO: Starting HADDOCK3 docking: K13_S600Y vs helical domain
+[2026-10-18 10:28:12,581] INFO: Completed HADDOCK3 docking: K13_S600Y_helical
+[2026-10-18 10:28:12,583] INFO: Starting HADDOCK3 docking: K13_T573N vs catalytic domain
+[2026-10-18 11:18:33,202] INFO: Completed HADDOCK3 docking: K13_T573N_catalytic
+[2026-10-18 11:18:33,204] INFO: Starting HADDOCK3 docking: K13_T573N vs helical domain
+[2026-10-18 12:02:55,825] INFO: Completed HADDOCK3 docking: K13_T573N_helical
+[2026-10-18 12:02:55,828] INFO: Starting HADDOCK3 docking: K13_T685K vs catalytic domain
+[2026-10-18 12:53:21,605] INFO: Completed HADDOCK3 docking: K13_T685K_catalytic
+[2026-10-18 12:53:21,607] INFO: Starting HADDOCK3 docking: K13_T685K vs helical domain
+[2026-10-18 13:37:58,157] INFO: Completed HADDOCK3 docking: K13_T685K_helical
+[2026-10-18 13:37:58,159] INFO: Starting HADDOCK3 docking: K13_V487E vs catalytic domain
+[2026-10-18 14:28:10,325] INFO: Completed HADDOCK3 docking: K13_V487E_catalytic
+[2026-10-18 14:28:10,328] INFO: Starting HADDOCK3 docking: K13_V487E vs helical domain
+[2026-10-18 15:12:39,857] INFO: Completed HADDOCK3 docking: K13_V487E_helical
+[2026-10-18 15:12:39,859] INFO: Starting HADDOCK3 docking: K13_V520I vs catalytic domain
+[2026-10-18 16:02:46,942] INFO: Completed HADDOCK3 docking: K13_V520I_catalytic
+[2026-10-18 16:02:46,943] INFO: Starting HADDOCK3 docking: K13_V520I vs helical domain
+[2026-10-18 16:47:12,961] INFO: Completed HADDOCK3 docking: K13_V520I_helical
+[2026-10-18 16:47:12,963] INFO: Starting HADDOCK3 docking: K13_V589I vs catalytic domain
+[2026-10-18 17:37:32,762] INFO: Completed HADDOCK3 docking: K13_V589I_catalytic
+[2026-10-18 17:37:32,765] INFO: Starting HADDOCK3 docking: K13_V589I vs helical domain
+[2026-10-18 18:21:45,242] INFO: Completed HADDOCK3 docking: K13_V589I_helical
+[2026-10-18 18:21:45,245] INFO: Starting HADDOCK3 docking: K13_V637I vs catalytic domain
+[2026-10-18 19:12:04,338] INFO: Completed HADDOCK3 docking: K13_V637I_catalytic
+[2026-10-18 19:12:04,340] INFO: Starting HADDOCK3 docking: K13_V637I vs helical domain
+[2026-10-18 19:56:26,162] INFO: Completed HADDOCK3 docking: K13_V637I_helical
+[2026-10-18 19:56:26,165] INFO: Starting HADDOCK3 docking: K13_V666L vs catalytic domain
+[2026-10-18 20:46:30,739] INFO: Completed HADDOCK3 docking: K13_V666L_catalytic
+[2026-10-18 20:46:30,741] INFO: Starting HADDOCK3 docking: K13_V666L vs helical domain
+[2026-10-18 21:31:05,588] INFO: Completed HADDOCK3 docking: K13_V666L_helical
+[2026-10-18 21:31:05,590] INFO: Starting HADDOCK3 docking: K13_W706C vs catalytic domain
+[2026-10-18 22:21:03,802] INFO: Completed HADDOCK3 docking: K13_W706C_catalytic
+[2026-10-18 22:21:03,805] INFO: Starting HADDOCK3 docking: K13_W706C vs helical domain
+[2026-10-18 23:05:15,329] INFO: Completed HADDOCK3 docking: K13_W706C_helical
+[2026-10-18 23:05:15,332] INFO: Starting HADDOCK3 docking: K13_WT vs catalytic domain
+[2026-10-18 23:55:19,938] INFO: Completed HADDOCK3 docking: K13_WT_catalytic
+[2026-10-18 23:55:19,940] INFO: Starting HADDOCK3 docking: K13_WT vs helical domain
+[2026-10-19 00:39:50,986] INFO: Completed HADDOCK3 docking: K13_WT_helical
+[2026-10-19 00:39:50,986] INFO: Extracting top-scoring cluster complex PDBs from HADDOCK outputs...
+[2026-10-19 00:39:51,088] INFO: Successfully extracted 0 top complex PDBs into /home/adedayoadedisa/K13_MASTER_PIPELINE_RUN2/mutants/mutant_complex
+[2026-10-19 00:39:51,088] INFO: Starting Amber topology generation, Sander minimization, and MM/GBSA calculations...
+[2026-10-19 00:39:51,088] WARNING: No complex PDB files found in /home/adedayoadedisa/K13_MASTER_PIPELINE_RUN2/mutants/mutant_complex for MM/GBSA rescoring.
+[2026-10-19 00:39:51,088] INFO: Compiling master screening summary data...
+[2026-10-19 00:39:51,095] INFO: Master summary saved to: /home/adedayoadedisa/K13_MASTER_PIPELINE_RUN2/Analysis_results/mmgbsa_energy_components_master.tsv
+[2026-10-19 00:39:51,095] INFO: === PIPELINE EXECUTION COMPLETE ===
